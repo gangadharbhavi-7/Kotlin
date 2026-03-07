@@ -1,0 +1,4 @@
+fun main(){
+  var name:String ="Gangadhar"
+  println("my name is $name")
+}
